@@ -1,0 +1,8 @@
+/*
+ * NOTE: install PostCSS Language Support 
+ * extension to avoid warnings
+ * https://marketplace.visualstudio.com/items?itemName=csstools.postcss
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
